@@ -1,0 +1,233 @@
+[24-Oct-2017 13:12:19 UTC] PHP Notice:  Undefined variable: stu_id in /home/rssctech/public_html/nailib1/about.php on line 141
+[24-Oct-2017 13:12:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:12:47 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:13:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[24-Oct-2017 13:13:07 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[24-Oct-2017 13:13:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:13:29 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:14:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:14:30 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:17:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:17:13 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:17:14 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[24-Oct-2017 13:17:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[24-Oct-2017 13:18:02 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Internal Assesment.php on line 14
+[24-Oct-2017 13:18:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/Internal Assesment.php on line 16
+[24-Oct-2017 13:18:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/rssctech/public_html/nailib1/Internal Assesment.php on line 158
+[24-Oct-2017 13:18:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:18:20 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:21:52 UTC] PHP Notice:  Undefined index: firstname in /home/rssctech/public_html/nailib1/NailIBIncorporation.php on line 88
+[24-Oct-2017 13:21:52 UTC] PHP Notice:  Undefined index: lastname in /home/rssctech/public_html/nailib1/NailIBIncorporation.php on line 90
+[24-Oct-2017 13:21:52 UTC] PHP Notice:  Undefined index: username in /home/rssctech/public_html/nailib1/NailIBIncorporation.php on line 92
+[24-Oct-2017 13:21:52 UTC] PHP Notice:  Undefined index: dob in /home/rssctech/public_html/nailib1/NailIBIncorporation.php on line 94
+[24-Oct-2017 13:21:52 UTC] PHP Notice:  Undefined index: ibdpyear in /home/rssctech/public_html/nailib1/NailIBIncorporation.php on line 96
+[24-Oct-2017 13:22:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:22:10 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:23:03 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[24-Oct-2017 13:23:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[24-Oct-2017 13:24:59 UTC] PHP Notice:  Undefined index: name in /home/rssctech/public_html/nailib1/Internal Assesment.php on line 4
+[24-Oct-2017 13:24:59 UTC] PHP Notice:  Undefined index: name in /home/rssctech/public_html/nailib1/Internal Assesment.php on line 10
+[24-Oct-2017 13:25:02 UTC] PHP Notice:  Undefined index: name in /home/rssctech/public_html/nailib1/Internal Assesment.php on line 4
+[24-Oct-2017 13:25:02 UTC] PHP Notice:  Undefined index: name in /home/rssctech/public_html/nailib1/Internal Assesment.php on line 10
+[24-Oct-2017 13:25:07 UTC] PHP Notice:  Undefined index: name in /home/rssctech/public_html/nailib1/Internal Assesment.php on line 4
+[24-Oct-2017 13:25:07 UTC] PHP Notice:  Undefined index: name in /home/rssctech/public_html/nailib1/Internal Assesment.php on line 10
+[24-Oct-2017 13:25:26 UTC] PHP Notice:  Undefined index: name in /home/rssctech/public_html/nailib1/Internal Assesment.php on line 4
+[24-Oct-2017 13:25:26 UTC] PHP Notice:  Undefined index: name in /home/rssctech/public_html/nailib1/Internal Assesment.php on line 10
+[24-Oct-2017 13:26:47 UTC] PHP Notice:  Undefined variable: stu_id in /home/rssctech/public_html/nailib1/about.php on line 141
+[24-Oct-2017 13:27:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:27:00 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:27:46 UTC] PHP Notice:  Undefined variable: stu_id in /home/rssctech/public_html/nailib1/about.php on line 141
+[24-Oct-2017 13:35:48 UTC] PHP Notice:  Undefined variable: stu_id in /home/rssctech/public_html/nailib1/about.php on line 141
+[24-Oct-2017 13:37:00 UTC] PHP Notice:  Undefined variable: stu_id in /home/rssctech/public_html/nailib1/about.php on line 141
+[24-Oct-2017 13:40:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:40:19 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:46:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[24-Oct-2017 13:46:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[24-Oct-2017 13:46:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:46:52 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:48:54 UTC] PHP Notice:  Undefined index: name in /home/rssctech/public_html/nailib1/Buy more bundles.php on line 4
+[24-Oct-2017 13:48:54 UTC] PHP Notice:  Undefined index: name in /home/rssctech/public_html/nailib1/Buy more bundles.php on line 10
+[24-Oct-2017 13:48:56 UTC] PHP Notice:  Undefined index: name in /home/rssctech/public_html/nailib1/Buy more bundles.php on line 4
+[24-Oct-2017 13:48:56 UTC] PHP Notice:  Undefined index: name in /home/rssctech/public_html/nailib1/Buy more bundles.php on line 10
+[24-Oct-2017 13:52:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[24-Oct-2017 13:52:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[24-Oct-2017 13:52:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:52:43 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:54:37 UTC] PHP Notice:  Undefined index: firstname in /home/rssctech/public_html/nailib1/NailIBIncorporation.php on line 88
+[24-Oct-2017 13:54:37 UTC] PHP Notice:  Undefined index: lastname in /home/rssctech/public_html/nailib1/NailIBIncorporation.php on line 90
+[24-Oct-2017 13:54:37 UTC] PHP Notice:  Undefined index: username in /home/rssctech/public_html/nailib1/NailIBIncorporation.php on line 92
+[24-Oct-2017 13:54:37 UTC] PHP Notice:  Undefined index: dob in /home/rssctech/public_html/nailib1/NailIBIncorporation.php on line 94
+[24-Oct-2017 13:54:37 UTC] PHP Notice:  Undefined index: ibdpyear in /home/rssctech/public_html/nailib1/NailIBIncorporation.php on line 96
+[24-Oct-2017 13:56:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:56:10 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:57:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:57:02 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 13:58:30 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/rssctech/public_html/nailib1/Personalprofile.php on line 155
+[24-Oct-2017 13:58:34 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/rssctech/public_html/nailib1/Personalprofile.php on line 155
+[24-Oct-2017 13:58:36 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/rssctech/public_html/nailib1/Personalprofile.php on line 155
+[24-Oct-2017 13:59:36 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/rssctech/public_html/nailib1/Personalprofile.php on line 155
+[24-Oct-2017 13:59:38 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/rssctech/public_html/nailib1/Personalprofile.php on line 155
+[24-Oct-2017 14:01:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:01:56 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:02:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[24-Oct-2017 14:02:32 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[24-Oct-2017 14:03:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[24-Oct-2017 14:03:28 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[24-Oct-2017 14:03:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[24-Oct-2017 14:03:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[24-Oct-2017 14:03:43 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[24-Oct-2017 14:03:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[24-Oct-2017 14:06:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[24-Oct-2017 14:06:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[24-Oct-2017 14:07:10 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[24-Oct-2017 14:07:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[24-Oct-2017 14:07:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[24-Oct-2017 14:07:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[24-Oct-2017 14:07:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:07:42 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:07:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[24-Oct-2017 14:07:49 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[24-Oct-2017 14:07:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:07:54 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:08:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:08:57 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:11:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:11:30 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:11:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:11:31 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:11:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:11:31 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:22:38 UTC] PHP Notice:  Undefined variable: stu_id in /home/rssctech/public_html/nailib1/about.php on line 141
+[24-Oct-2017 14:22:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:22:57 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:23:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[24-Oct-2017 14:23:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[24-Oct-2017 14:25:50 UTC] PHP Notice:  Undefined variable: stu_id in /home/rssctech/public_html/nailib1/about.php on line 141
+[24-Oct-2017 14:50:42 UTC] PHP Notice:  Undefined variable: stu_id in /home/rssctech/public_html/nailib1/about.php on line 141
+[24-Oct-2017 14:51:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:51:55 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[24-Oct-2017 14:52:01 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[24-Oct-2017 14:52:07 UTC] PHP Notice:  Undefined variable: stu_id in /home/rssctech/public_html/nailib1/about.php on line 141
+[24-Oct-2017 14:52:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:17 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:30 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:36 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:37 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:37 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:37 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:38 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:45 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:45 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:45 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:45 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:46 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:55 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:56 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:56 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:56 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:56 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:56 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:52:57 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:53:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[24-Oct-2017 14:53:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[24-Oct-2017 14:53:37 UTC] PHP Notice:  Undefined variable: stu_id in /home/rssctech/public_html/nailib1/about.php on line 141
+[24-Oct-2017 14:53:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:53:49 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:54:19 UTC] PHP Notice:  Undefined variable: stu_id in /home/rssctech/public_html/nailib1/about.php on line 141
+[24-Oct-2017 14:54:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[24-Oct-2017 14:54:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[24-Oct-2017 14:55:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[24-Oct-2017 14:55:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[24-Oct-2017 14:58:57 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[24-Oct-2017 14:58:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[24-Oct-2017 14:58:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:58:59 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[24-Oct-2017 14:59:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[24-Oct-2017 14:59:03 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[24-Oct-2017 14:59:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[24-Oct-2017 14:59:23 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[24-Oct-2017 15:00:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[24-Oct-2017 15:00:38 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[24-Oct-2017 15:02:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[24-Oct-2017 15:02:57 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[24-Oct-2017 18:12:21 UTC] PHP Notice:  Undefined variable: stu_id in /home/rssctech/public_html/nailib1/about.php on line 141
+[24-Oct-2017 18:13:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[24-Oct-2017 18:13:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[24-Oct-2017 18:15:21 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[24-Oct-2017 18:15:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[24-Oct-2017 18:15:54 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[24-Oct-2017 18:15:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[24-Oct-2017 18:17:21 UTC] PHP Notice:  Undefined variable: stu_id in /home/rssctech/public_html/nailib1/about.php on line 141
+[25-Oct-2017 05:23:02 UTC] PHP Notice:  Undefined variable: stu_id in /home/rssctech/public_html/nailib1/about.php on line 141
+[25-Oct-2017 05:23:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[25-Oct-2017 05:23:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[25-Oct-2017 05:26:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[25-Oct-2017 05:26:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[25-Oct-2017 07:45:12 UTC] PHP Notice:  Undefined variable: stu_id in /home/rssctech/public_html/nailib1/about.php on line 141
+[25-Oct-2017 07:45:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[25-Oct-2017 07:45:26 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[25-Oct-2017 07:46:32 UTC] PHP Notice:  Undefined variable: stu_id in /home/rssctech/public_html/nailib1/about.php on line 141
+[25-Oct-2017 07:46:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[25-Oct-2017 07:46:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[25-Oct-2017 07:46:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[25-Oct-2017 07:46:40 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[25-Oct-2017 07:47:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[25-Oct-2017 07:47:18 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[25-Oct-2017 07:47:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[25-Oct-2017 07:47:31 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[25-Oct-2017 09:34:28 UTC] PHP Notice:  Undefined index: name in /home/rssctech/public_html/nailib1/Bundles.php on line 4
+[25-Oct-2017 09:34:28 UTC] PHP Notice:  Undefined index: name in /home/rssctech/public_html/nailib1/Bundles.php on line 10
+[25-Oct-2017 09:34:28 UTC] PHP Notice:  Undefined index: name in /home/rssctech/public_html/nailib1/Bundles.php on line 74
+[25-Oct-2017 13:08:58 UTC] PHP Notice:  Undefined variable: stu_id in /home/rssctech/public_html/nailib1/about.php on line 141
+[25-Oct-2017 13:09:02 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[25-Oct-2017 13:09:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[25-Oct-2017 13:09:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[25-Oct-2017 13:09:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[25-Oct-2017 13:15:31 UTC] PHP Notice:  Undefined variable: stu_id in /home/rssctech/public_html/nailib1/about.php on line 141
+[25-Oct-2017 13:15:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[25-Oct-2017 13:15:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[25-Oct-2017 13:21:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[25-Oct-2017 13:21:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[25-Oct-2017 13:21:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[25-Oct-2017 13:21:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[25-Oct-2017 13:22:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[25-Oct-2017 13:22:45 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[25-Oct-2017 13:22:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[25-Oct-2017 13:22:51 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile2.php on line 230
+[25-Oct-2017 13:44:41 UTC] PHP Notice:  Undefined variable: stu_id in /home/rssctech/public_html/nailib1/about.php on line 141
+[25-Oct-2017 13:45:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[25-Oct-2017 13:45:28 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/Personalprofile.php on line 254
+[25-Oct-2017 13:56:16 UTC] PHP Notice:  Undefined variable: stu_id in /home/rssctech/public_html/nailib1/about.php on line 141
+[25-Oct-2017 13:56:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[25-Oct-2017 13:56:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[25-Oct-2017 13:57:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[25-Oct-2017 13:57:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[25-Oct-2017 13:57:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rssctech/public_html/nailib1/YourNotes.php on line 14
+[25-Oct-2017 13:57:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/rssctech/public_html/nailib1/YourNotes.php on line 16
+[26-Oct-2017 10:39:23 UTC] PHP Warning:  require(includes/config.php): failed to open stream: No such file or directory in /home/rssctech/public_html/nailib1/reset.php on line 1
+[26-Oct-2017 10:39:23 UTC] PHP Fatal error:  require(): Failed opening required 'includes/config.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rssctech/public_html/nailib1/reset.php on line 1
+[26-Oct-2017 11:49:52 Europe/London] PHP Notice:  Use of undefined constant SITETITLE - assumed 'SITETITLE' in /home/rssctech/public_html/nailib1/reset.php on line 44
+[26-Oct-2017 11:51:08 Europe/London] PHP Notice:  Undefined index: action in /home/rssctech/public_html/nailib1/resetPassword.php on line 92
+[26-Oct-2017 12:01:54 Europe/London] PHP Notice:  Use of undefined constant SITETITLE - assumed 'SITETITLE' in /home/rssctech/public_html/nailib1/reset.php on line 44
+[26-Oct-2017 12:03:04 Europe/London] PHP Notice:  Undefined index: action in /home/rssctech/public_html/nailib1/resetPassword.php on line 92
+[26-Oct-2017 12:12:00 Europe/London] PHP Notice:  Use of undefined constant SITETITLE - assumed 'SITETITLE' in /home/rssctech/public_html/nailib1/reset.php on line 44
+[26-Oct-2017 12:13:55 Europe/London] PHP Notice:  Undefined index: action in /home/rssctech/public_html/nailib1/resetPassword.php on line 148
